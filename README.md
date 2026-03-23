@@ -1,3 +1,3 @@
 # best-repo-ever
 
-This is my first commit ever.
+Practice repository for learning branching, commits, and pull requests.
