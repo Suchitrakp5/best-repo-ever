@@ -1,3 +1,3 @@
 # best-repo-ever
 
-This is my first commit ever.
+This repo is used for practicing Git workflows and collaboration.
